@@ -39,7 +39,7 @@ Q: How can i participate in helping BlackHole?
 ## Stay updated:
 
 - Join Discord: *Upcoming*
-- Watch GitHub: [GitHub.com](https://github.com/Mr-Lococo/blackhole-cli)
+- Watch GitHub: [GitHub.com](https://github.com/Mr-Lococo/BlackHole-Security-First-Terminal.)
 
 # More:
 ## Pluggable tools architecture?
